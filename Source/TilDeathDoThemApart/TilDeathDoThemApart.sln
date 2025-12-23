@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilDeathDoThemApart", "TilDeathDoThemApart.csproj", "{AFD560A4-1A61-4EB1-B063-8A3F7CB4EF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD560A4-1A61-4EB1-B063-8A3F7CB4EF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD560A4-1A61-4EB1-B063-8A3F7CB4EF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD560A4-1A61-4EB1-B063-8A3F7CB4EF94}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD560A4-1A61-4EB1-B063-8A3F7CB4EF94}.Debug|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

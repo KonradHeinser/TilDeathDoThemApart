@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-    <Operation Class="PatchOperationReplace">
-        <xpath>/Defs/PawnRelationDef[defName = "Spouse"]/opinionOffset</xpath>
-        <value>
-            <opinionOffset>200</opinionOffset>
-        </value>
+    <Operation Class="TilDeathDoThemApart.PatchOperationSettingReplace">
+        <xpath>Defs/PawnRelationDef[defName="Spouse"]/opinionOffset</xpath>
+        <setting>marriageOpinion</setting>
     </Operation>
 </Patch>
