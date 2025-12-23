@@ -2,5 +2,5 @@
 <LanguageData>
     <TDDTA>'Til Death Do Them Apart</TDDTA>
     <Opinion>Opinion</Opinion>
-    <OpinionOverride>Sets the opinion change from being married to be set to this value, with a minimum of 35 (same as lover) all the way up to the default/max of 200 (almost guaranteed to always have 100 opinion).</OpinionOverride>
+    <OpinionOverride>Sets the opinion change from being married to be set to this value, with a minimum of 35 (same as lover) all the way up to the default/max of 200 (almost guaranteed to always have 100 opinion). Reload required after change.</OpinionOverride>
 </LanguageData>
